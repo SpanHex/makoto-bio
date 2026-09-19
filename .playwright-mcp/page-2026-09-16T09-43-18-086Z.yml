@@ -1,0 +1,77 @@
+- generic [ref=e3]:
+  - generic:
+    - generic [ref=e12]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - generic [ref=e17]: SPANDAN
+          - generic [ref=e18]: //
+          - generic [ref=e19]: CYBERPUNK 3D GRID
+        - generic [ref=e20]: "CORE: ONLINE [109 FPS] // ASSAM, IN"
+      - generic [ref=e21]:
+        - button "Toggle Cinematic Drone Tour" [ref=e22] [cursor=pointer]
+        - button "Reset Panoramic View" [ref=e26] [cursor=pointer]
+        - button "AUDIO OFF" [ref=e30] [cursor=pointer]
+    - generic [ref=e36]:
+      - generic [ref=e37]:
+        - generic [ref=e38]: "NAVIGATION:"
+        - generic [ref=e39]: DRAG TO ORBIT • SCROLL TO ZOOM • CLICK BUILDINGS TO DIVE
+      - generic [ref=e40]:
+        - button "SEC-01 NEURAL CORE" [active] [ref=e41] [cursor=pointer]:
+          - generic [ref=e42]: SEC-01
+          - generic [ref=e43]: NEURAL CORE
+        - button "SEC-02 QUANTUM LAB" [ref=e44] [cursor=pointer]:
+          - generic [ref=e45]: SEC-02
+          - generic [ref=e46]: QUANTUM LAB
+        - button "SEC-03 TECH FORGE" [ref=e47] [cursor=pointer]:
+          - generic [ref=e48]: SEC-03
+          - generic [ref=e49]: TECH FORGE
+        - button "SEC-04 TIMELINE ARCHIVE" [ref=e50] [cursor=pointer]:
+          - generic [ref=e51]: SEC-04
+          - generic [ref=e52]: TIMELINE ARCHIVE
+        - button "SEC-05 SIGNAL RELAY" [ref=e53] [cursor=pointer]:
+          - generic [ref=e54]: SEC-05
+          - generic [ref=e55]: SIGNAL RELAY
+      - generic "City Orientation Radar" [ref=e56]: RADAR
+  - generic [ref=e290]:
+    - generic [ref=e291]:
+      - generic [ref=e296]:
+        - generic [ref=e297]:
+          - generic [ref=e298]: "[SEC-01]"
+          - heading "NEURAL CORE" [level=2] [ref=e299]
+        - paragraph [ref=e300]: IDENTITY // PHILOSOPHY & VISION
+      - generic [ref=e301]:
+        - generic [ref=e302]: OPERATIONAL
+        - button "Exit terminal back to city" [ref=e304] [cursor=pointer]:
+          - generic [ref=e308]: RETURN TO CITY [ESC]
+    - generic [ref=e310]:
+      - generic [ref=e312]:
+        - generic [ref=e313]: SPN-01
+        - generic [ref=e318]:
+          - generic [ref=e319]:
+            - generic [ref=e320]: CREATIVE DEVELOPER PROTOCOL //
+            - generic [ref=e321]: Assam, India
+          - heading "SPANDAN UPAMANYU" [level=1] [ref=e325]
+          - paragraph [ref=e326]: I'm Spandan, a creative web developer from Assam, India. I combine frontend engineering, creative coding, real-time 3D, and atmospheric UI/UX to transform websites into memorable places rather than standard templates. Currently crafting modern React/Three.js web systems with deep visual quality and high frame rate performance.
+          - generic [ref=e327]:
+            - generic [ref=e328]: "COORDS: 26.2006° N, 92.9376° E"
+            - generic [ref=e329]: "HANDLE: @SpanHex"
+            - generic [ref=e330]: "EXPERIENCE: 1+ YEARS PRODUCTION"
+      - generic [ref=e331]:
+        - heading "DEVELOPMENT PHILOSOPHY & PILLARS" [level=3] [ref=e332]
+        - generic [ref=e337]:
+          - generic [ref=e338]:
+            - heading "ATMOSPHERE & DEPTH" [level=4] [ref=e342]
+            - paragraph [ref=e343]: Websites shouldn't just be flat documents. Through real-time 3D, spatial lighting, and procedural audio, digital interfaces become tangible environments that leave an impression.
+          - generic [ref=e344]:
+            - heading "60+ FPS PERFORMANCE" [level=4] [ref=e349]
+            - paragraph [ref=e350]: Heavy visuals mean nothing if they stutter. Every shader, mesh draw-call, and frame calculation is profiled to maintain liquid-smooth responsiveness across modern desktop and mobile browsers.
+          - generic [ref=e351]:
+            - heading "INTENTIONAL CRAFT" [level=4] [ref=e356]
+            - paragraph [ref=e357]: Typography, timing curves, micro-interactions, and state transitions are fine-tuned by hand. Every pixel and interaction is designed with purpose rather than generated off generic templates.
+      - generic [ref=e358]:
+        - button "EXPLORE QUANTUM LAB (PROJECTS)" [ref=e359] [cursor=pointer]
+        - button "OPEN SIGNAL RELAY (CONTACT)" [ref=e363] [cursor=pointer]
+    - generic [ref=e367]:
+      - 'button "PREV: SIGNAL RELAY" [ref=e368] [cursor=pointer]'
+      - generic [ref=e372]: "TERMINAL UPLINK: ENCRYPTED // NODE: SEC-01"
+      - 'button "NEXT: QUANTUM LAB" [ref=e376] [cursor=pointer]'

@@ -1,0 +1,40 @@
+- generic [ref=e3]:
+  - generic [ref=e7]:
+    - heading "INITIALIZING CYBERPUNK 3D GRID" [level=2] [ref=e8]
+    - paragraph [ref=e9]: STREAMING GEOMETRY & PBR SHADERS // 0%
+  - generic:
+    - banner [ref=e12]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - generic [ref=e17]: SPANDAN
+          - generic [ref=e18]: スパンダン
+          - generic [ref=e19]: //
+          - generic [ref=e20]: CYBERPUNK 3D GRID
+          - generic [ref=e21]: "[電脳都市網]"
+        - generic [ref=e22]:
+          - generic [ref=e23]: "CORE: ONLINE [60 FPS] // ASSAM, IN"
+          - generic [ref=e24]: ● 接続正常
+      - generic [ref=e25]:
+        - button "巡航" [ref=e26] [cursor=pointer]
+        - button "初期化" [ref=e31] [cursor=pointer]
+        - button "AUDIO // 音響 OFF" [ref=e36] [cursor=pointer]
+    - generic [ref=e42]:
+      - generic [ref=e43]: "NAVIGATION:"
+      - generic [ref=e44]: DRAG TO ORBIT • SCROLL TO ZOOM • CLICK BEACONS
+    - navigation "Sector Navigation Dock" [ref=e45]:
+      - button "SEC-01 NEURAL CORE" [ref=e46] [cursor=pointer]:
+        - generic [ref=e47]: SEC-01
+        - generic [ref=e48]: NEURAL CORE
+      - button "SEC-02 QUANTUM LAB" [ref=e49] [cursor=pointer]:
+        - generic [ref=e50]: SEC-02
+        - generic [ref=e51]: QUANTUM LAB
+      - button "SEC-03 TECH FORGE" [ref=e52] [cursor=pointer]:
+        - generic [ref=e53]: SEC-03
+        - generic [ref=e54]: TECH FORGE
+      - button "SEC-04 TIMELINE ARCHIVE" [ref=e55] [cursor=pointer]:
+        - generic [ref=e56]: SEC-04
+        - generic [ref=e57]: TIMELINE ARCHIVE
+      - button "SEC-05 SIGNAL RELAY" [ref=e58] [cursor=pointer]:
+        - generic [ref=e59]: SEC-05
+        - generic [ref=e60]: SIGNAL RELAY
+    - generic "City Orientation Radar" [ref=e61]: RADAR

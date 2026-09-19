@@ -1,0 +1,96 @@
+- generic [ref=f1e3]:
+  - generic:
+    - generic [ref=f1e12]:
+      - generic [ref=f1e15]:
+        - generic [ref=f1e16]:
+          - generic [ref=f1e17]: SPANDAN
+          - generic [ref=f1e18]: //
+          - generic [ref=f1e19]: CYBERPUNK 3D GRID
+        - generic [ref=f1e20]: "CORE: ONLINE [143 FPS] // ASSAM, IN"
+      - generic [ref=f1e21]:
+        - button "Toggle Cinematic Drone Tour" [ref=f1e22] [cursor=pointer]
+        - button "Reset Panoramic View" [ref=f1e26] [cursor=pointer]
+        - button "AUDIO OFF" [ref=f1e30] [cursor=pointer]
+    - generic [ref=f1e36]:
+      - generic [ref=f1e37]:
+        - generic [ref=f1e38]: "NAVIGATION:"
+        - generic [ref=f1e39]: DRAG TO ORBIT • SCROLL TO ZOOM • CLICK BUILDINGS TO DIVE
+      - generic [ref=f1e40]:
+        - button "SEC-01 NEURAL CORE" [ref=f1e41] [cursor=pointer]:
+          - generic [ref=f1e42]: SEC-01
+          - generic [ref=f1e43]: NEURAL CORE
+        - button "SEC-02 QUANTUM LAB" [ref=f1e44] [cursor=pointer]:
+          - generic [ref=f1e45]: SEC-02
+          - generic [ref=f1e46]: QUANTUM LAB
+        - button "SEC-03 TECH FORGE" [ref=f1e47] [cursor=pointer]:
+          - generic [ref=f1e48]: SEC-03
+          - generic [ref=f1e49]: TECH FORGE
+        - button "SEC-04 TIMELINE ARCHIVE" [ref=f1e50] [cursor=pointer]:
+          - generic [ref=f1e51]: SEC-04
+          - generic [ref=f1e52]: TIMELINE ARCHIVE
+        - button "SEC-05 SIGNAL RELAY" [ref=f1e53] [cursor=pointer]:
+          - generic [ref=f1e54]: SEC-05
+          - generic [ref=f1e55]: SIGNAL RELAY
+      - generic "City Orientation Radar" [ref=f1e56]: RADAR
+  - generic [ref=f1e70]:
+    - generic [ref=f1e71]:
+      - generic [ref=f1e76]:
+        - generic [ref=f1e77]:
+          - generic [ref=f1e78]: "[SEC-04]"
+          - heading "TIMELINE ARCHIVE" [level=2] [ref=f1e429]
+        - paragraph [ref=f1e80]: CHRONOLOGY // JOURNEY & MILESTONES
+      - generic [ref=f1e81]:
+        - generic [ref=f1e82]: RECORDED
+        - button "Exit terminal back to city" [ref=f1e84] [cursor=pointer]:
+          - generic [ref=f1e88]: RETURN TO CITY [ESC]
+    - generic [ref=f1e430]:
+      - generic [ref=f1e431]: CHRONOLOGICAL AUDIT TRAIL // SYSTEM MILESTONES
+      - generic [ref=f1e437]:
+        - generic [ref=f1e438]:
+          - generic [ref=f1e439]:
+            - generic [ref=f1e440]:
+              - generic [ref=f1e441]: 2024 — PRESENT
+              - generic [ref=f1e442]: ACTIVE FOCUS
+            - generic [ref=f1e443]: Assam, India
+          - generic [ref=f1e444]:
+            - heading "Creative Web Developer & 3D Specialist" [level=3] [ref=f1e445]
+            - paragraph [ref=f1e446]: // Independent Creative Engineering Practice
+          - paragraph [ref=f1e447]: Dedicated to designing and building next-generation digital experiences, combining React, Three.js, WebGL, and custom interaction mechanics.
+          - generic [ref=f1e448]:
+            - generic [ref=f1e449]: "KEY ACHIEVEMENTS:"
+            - generic [ref=f1e450]: Built and deployed 6+ interactive web worlds with global edge hosting on Vercel & Cloudflare.
+            - generic [ref=f1e454]: Specialized in spatial 3D navigation, cybernetic HUD designs, and procedural Web Audio interactions.
+            - generic [ref=f1e458]: Achieved 60+ FPS WebGL rendering with optimized draw calls and custom post-processing pipelines.
+        - generic [ref=f1e462]:
+          - generic [ref=f1e463]:
+            - generic [ref=f1e464]:
+              - generic [ref=f1e465]: 2023 — 2024
+              - generic [ref=f1e466]: FOUNDATION
+            - generic [ref=f1e467]: Assam, India
+          - generic [ref=f1e468]:
+            - heading "Frontend Development & UI Design Foundations" [level=3] [ref=f1e469]
+            - paragraph [ref=f1e470]: // Project-Based Practice & Systems Research
+          - paragraph [ref=f1e471]: Intensive deep dive into modern TypeScript, component architecture, CSS layout engines, and interactive web standards.
+          - generic [ref=f1e472]:
+            - generic [ref=f1e473]: "KEY ACHIEVEMENTS:"
+            - generic [ref=f1e474]: Mastered responsive layout systems, CSS Grid, and custom property design tokens.
+            - generic [ref=f1e478]: Developed reusable component libraries with strict TypeScript type-checking.
+            - generic [ref=f1e482]: Transitioned into creative coding with Canvas 2D and Three.js fundamentals.
+        - generic [ref=f1e486]:
+          - generic [ref=f1e487]:
+            - generic [ref=f1e488]:
+              - generic [ref=f1e489]: 2022 — 2023
+              - generic [ref=f1e490]: ACADEMIC
+            - generic [ref=f1e491]: Assam, India
+          - generic [ref=f1e492]:
+            - heading "Secondary Education & Independent Computing" [level=3] [ref=f1e493]
+            - paragraph [ref=f1e494]: // SEBA (Board of Secondary Education, Assam)
+          - paragraph [ref=f1e495]: Completed secondary education with focused independent exploration into computer science, creative technology, and digital design.
+          - generic [ref=f1e496]:
+            - generic [ref=f1e497]: "KEY ACHIEVEMENTS:"
+            - generic [ref=f1e498]: Built early web projects and studied software architecture principles.
+            - generic [ref=f1e502]: Self-taught programming logic, algorithm design, and visual arts.
+    - generic [ref=f1e147]:
+      - 'button "PREV: TECH FORGE" [ref=f1e506] [cursor=pointer]'
+      - generic [ref=f1e152]: "TERMINAL UPLINK: ENCRYPTED // NODE: SEC-04"
+      - 'button "NEXT: SIGNAL RELAY" [active] [ref=f1e507] [cursor=pointer]'

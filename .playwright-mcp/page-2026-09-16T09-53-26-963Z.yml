@@ -1,0 +1,34 @@
+- generic [ref=f1e3]:
+  - generic:
+    - generic [ref=f1e12]:
+      - generic [ref=f1e15]:
+        - generic [ref=f1e16]:
+          - generic [ref=f1e17]: SPANDAN
+          - generic [ref=f1e18]: //
+          - generic [ref=f1e19]: CYBERPUNK 3D GRID
+        - generic [ref=f1e20]: "CORE: ONLINE [144 FPS] // ASSAM, IN"
+      - generic [ref=f1e21]:
+        - button "Toggle Cinematic Drone Tour" [active] [ref=f1e22] [cursor=pointer]
+        - button "Reset Panoramic View" [ref=f1e26] [cursor=pointer]
+        - button "AUDIO OFF" [ref=f1e30] [cursor=pointer]
+    - generic [ref=f1e36]:
+      - generic [ref=f1e37]:
+        - generic [ref=f1e38]: "NAVIGATION:"
+        - generic [ref=f1e39]: DRAG TO ORBIT • SCROLL TO ZOOM • CLICK BUILDINGS TO DIVE
+      - generic [ref=f1e40]:
+        - button "SEC-01 NEURAL CORE" [ref=f1e41] [cursor=pointer]:
+          - generic [ref=f1e42]: SEC-01
+          - generic [ref=f1e43]: NEURAL CORE
+        - button "SEC-02 QUANTUM LAB" [ref=f1e44] [cursor=pointer]:
+          - generic [ref=f1e45]: SEC-02
+          - generic [ref=f1e46]: QUANTUM LAB
+        - button "SEC-03 TECH FORGE" [ref=f1e47] [cursor=pointer]:
+          - generic [ref=f1e48]: SEC-03
+          - generic [ref=f1e49]: TECH FORGE
+        - button "SEC-04 TIMELINE ARCHIVE" [ref=f1e50] [cursor=pointer]:
+          - generic [ref=f1e51]: SEC-04
+          - generic [ref=f1e52]: TIMELINE ARCHIVE
+        - button "SEC-05 SIGNAL RELAY" [ref=f1e53] [cursor=pointer]:
+          - generic [ref=f1e54]: SEC-05
+          - generic [ref=f1e55]: SIGNAL RELAY
+      - generic "City Orientation Radar" [ref=f1e56]: RADAR

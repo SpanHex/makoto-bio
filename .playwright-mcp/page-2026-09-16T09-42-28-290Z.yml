@@ -1,0 +1,168 @@
+- generic [ref=e3]:
+  - generic:
+    - generic [ref=e12]:
+      - generic [ref=e15]:
+        - generic [ref=e16]:
+          - generic [ref=e17]: SPANDAN
+          - generic [ref=e18]: //
+          - generic [ref=e19]: CYBERPUNK 3D GRID
+        - generic [ref=e20]: "CORE: ONLINE [144 FPS] // ASSAM, IN"
+      - generic [ref=e21]:
+        - button "Toggle Cinematic Drone Tour" [ref=e22] [cursor=pointer]
+        - button "Reset Panoramic View" [ref=e26] [cursor=pointer]
+        - button "AUDIO OFF" [ref=e30] [cursor=pointer]
+    - generic [ref=e36]:
+      - generic [ref=e37]:
+        - generic [ref=e38]: "NAVIGATION:"
+        - generic [ref=e39]: DRAG TO ORBIT • SCROLL TO ZOOM • CLICK BUILDINGS TO DIVE
+      - generic [ref=e40]:
+        - button "SEC-01 NEURAL CORE" [ref=e41] [cursor=pointer]:
+          - generic [ref=e42]: SEC-01
+          - generic [ref=e43]: NEURAL CORE
+        - button "SEC-02 QUANTUM LAB" [active] [ref=e44] [cursor=pointer]:
+          - generic [ref=e45]: SEC-02
+          - generic [ref=e46]: QUANTUM LAB
+        - button "SEC-03 TECH FORGE" [ref=e47] [cursor=pointer]:
+          - generic [ref=e48]: SEC-03
+          - generic [ref=e49]: TECH FORGE
+        - button "SEC-04 TIMELINE ARCHIVE" [ref=e50] [cursor=pointer]:
+          - generic [ref=e51]: SEC-04
+          - generic [ref=e52]: TIMELINE ARCHIVE
+        - button "SEC-05 SIGNAL RELAY" [ref=e53] [cursor=pointer]:
+          - generic [ref=e54]: SEC-05
+          - generic [ref=e55]: SIGNAL RELAY
+      - generic "City Orientation Radar" [ref=e56]: RADAR
+  - generic [ref=e70]:
+    - generic [ref=e71]:
+      - generic [ref=e76]:
+        - generic [ref=e77]:
+          - generic [ref=e78]: "[SEC-02]"
+          - heading "QUANTUM LAB" [level=2] [ref=e79]
+        - paragraph [ref=e80]: SELECTED WORLDS // DIGITAL ARTIFACTS
+      - generic [ref=e81]:
+        - generic [ref=e82]: 6 WORLDS ACTIVE
+        - button "Exit terminal back to city" [ref=e84] [cursor=pointer]:
+          - generic [ref=e88]: RETURN TO CITY [ESC]
+    - generic [ref=e90]:
+      - generic [ref=e91]:
+        - generic [ref=e92]: "ACTIVE EXPERIMENTAL WORLDS: 6 DEPLOYED"
+        - generic [ref=e98]:
+          - button "ALL WORLDS" [ref=e99] [cursor=pointer]
+          - button "FEATURED" [ref=e100] [cursor=pointer]
+          - button "SYSTEMS" [ref=e101] [cursor=pointer]
+          - button "ATMOSPHERIC" [ref=e102] [cursor=pointer]
+      - generic [ref=e103]:
+        - generic [ref=e104]:
+          - generic [ref=e105]:
+            - generic [ref=e106]:
+              - generic [ref=e107]: "[01]"
+              - generic [ref=e108]: SYSTEM / EDUCATION
+            - generic [ref=e109]: FLAGSHIP
+          - generic [ref=e112]:
+            - heading "UNIPATH" [level=3] [ref=e113]
+            - paragraph [ref=e114]: // Structured Education-Oriented System
+            - paragraph [ref=e115]: A clear, structured web world focused on helping students and learners navigate educational paths with clarity, progression tracking, and intuitive information architecture.
+            - generic [ref=e116]:
+              - generic [ref=e117]: TypeScript
+              - generic [ref=e118]: React
+              - generic [ref=e119]: Vite
+              - generic [ref=e120]: Tailwind
+              - generic [ref=e121]: Motion
+            - generic [ref=e122]:
+              - generic [ref=e123]: "KEY SPECIFICATIONS & ARCHITECTURE:"
+              - generic [ref=e124]: Comprehensive educational pathway visualization
+              - generic [ref=e129]: Intuitive hierarchy designed to minimize cognitive friction
+              - generic [ref=e134]: High-performance client-side routing and animated transitions
+            - generic [ref=e139]:
+              - button "LESS DETAILS" [ref=e140] [cursor=pointer]
+              - link "LAUNCH" [ref=e144] [cursor=pointer]:
+                - /url: https://unipath-1-psi.vercel.app/
+        - generic [ref=e150]:
+          - generic [ref=e151]:
+            - generic [ref=e152]:
+              - generic [ref=e153]: "[02]"
+              - generic [ref=e154]: EXPERIMENTAL WEB
+            - generic [ref=e155]: FLAGSHIP
+          - generic [ref=e158]:
+            - heading "ROXIMA B" [level=3] [ref=e159]
+            - paragraph [ref=e160]: // Atmospheric Sci-Fi Experimental Web Experience
+            - paragraph [ref=e161]: A compact digital experiment exploring environmental atmosphere, interface rhythm, dynamic composition, and responsive spatial navigation.
+            - generic [ref=e162]:
+              - generic [ref=e163]: Creative Frontend
+              - generic [ref=e164]: WebGL
+              - generic [ref=e165]: GSAP
+              - generic [ref=e166]: Interaction Design
+            - generic [ref=e167]:
+              - button "INSPECT ARCHITECTURE" [ref=e168] [cursor=pointer]
+              - link "LAUNCH" [ref=e172] [cursor=pointer]:
+                - /url: https://roxima-b.pages.dev/
+        - generic [ref=e178]:
+          - generic [ref=e180]:
+            - generic [ref=e181]: "[03]"
+            - generic [ref=e182]: BRANDED EXPERIENCE
+          - generic [ref=e183]:
+            - heading "BL BEAUTY ALPHA" [level=3] [ref=e184]
+            - paragraph [ref=e185]: // High-End Branded Editorial Interface
+            - paragraph [ref=e186]: A luxury beauty-focused interface engineered with a delicate visual register, strong typographic point of view, and refined aesthetic restraint.
+            - generic [ref=e187]:
+              - generic [ref=e188]: React
+              - generic [ref=e189]: Visual Design
+              - generic [ref=e190]: CSS Architecture
+              - generic [ref=e191]: Editorial
+            - generic [ref=e192]:
+              - button "INSPECT ARCHITECTURE" [ref=e193] [cursor=pointer]
+              - link "LAUNCH" [ref=e197] [cursor=pointer]:
+                - /url: https://blbeautyalpha.pages.dev/
+        - generic [ref=e203]:
+          - generic [ref=e205]:
+            - generic [ref=e206]: "[04]"
+            - generic [ref=e207]: PERSONAL EXPERIENCE
+          - generic [ref=e208]:
+            - heading "ZILLIE BIRTHDAY" [level=3] [ref=e209]
+            - paragraph [ref=e210]: // Whimsical Personal Creative Interactive Piece
+            - paragraph [ref=e211]: A joyful, playful interactive experience created to make a personal celebratory moment deeply memorable, proving web experiences can be both intimate and technically polished.
+            - generic [ref=e212]:
+              - generic [ref=e213]: Creative Frontend
+              - generic [ref=e214]: Motion
+              - generic [ref=e215]: Interactive Canvas
+            - generic [ref=e216]:
+              - button "INSPECT ARCHITECTURE" [ref=e217] [cursor=pointer]
+              - link "LAUNCH" [ref=e221] [cursor=pointer]:
+                - /url: https://zillie-birthday.vercel.app/
+        - generic [ref=e227]:
+          - generic [ref=e229]:
+            - generic [ref=e230]: "[05]"
+            - generic [ref=e231]: ARCHIVE / STORY
+          - generic [ref=e232]:
+            - heading "TESSETH ARCHIVE" [level=3] [ref=e233]
+            - paragraph [ref=e234]: // Story-Forward Fragment & Lore Repository
+            - paragraph [ref=e235]: A narrative-driven digital archive designed for collecting fragments, references, and dark atmosphere. Treats web navigation as an exploration of physical spaces.
+            - generic [ref=e236]:
+              - generic [ref=e237]: Frontend
+              - generic [ref=e238]: Typography
+              - generic [ref=e239]: Pacing
+              - generic [ref=e240]: Design Systems
+            - generic [ref=e241]:
+              - button "INSPECT ARCHITECTURE" [ref=e242] [cursor=pointer]
+              - link "LAUNCH" [ref=e246] [cursor=pointer]:
+                - /url: https://tesseth-archive.vercel.app/
+        - generic [ref=e252]:
+          - generic [ref=e254]:
+            - generic [ref=e255]: "[06]"
+            - generic [ref=e256]: INTERACTIVE SYSTEM
+          - generic [ref=e257]:
+            - heading "TESSETH LEVELLING" [level=3] [ref=e258]
+            - paragraph [ref=e259]: // Progression-Led Interactive Interface System
+            - paragraph [ref=e260]: An interactive system driven by a sense of advancement, sequence, and unlockable discovery where mechanics form part of the narrative content.
+            - generic [ref=e261]:
+              - generic [ref=e262]: Interactive UI
+              - generic [ref=e263]: State Flow
+              - generic [ref=e264]: Motion Systems
+            - generic [ref=e265]:
+              - button "INSPECT ARCHITECTURE" [ref=e266] [cursor=pointer]
+              - link "LAUNCH" [ref=e270] [cursor=pointer]:
+                - /url: https://tesseth-levelling.vercel.app/
+    - generic [ref=e276]:
+      - 'button "PREV: NEURAL CORE" [ref=e277] [cursor=pointer]'
+      - generic [ref=e281]: "TERMINAL UPLINK: ENCRYPTED // NODE: SEC-02"
+      - 'button "NEXT: TECH FORGE" [ref=e285] [cursor=pointer]'

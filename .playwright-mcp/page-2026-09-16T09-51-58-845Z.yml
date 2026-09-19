@@ -1,0 +1,82 @@
+- generic [ref=f1e3]:
+  - generic:
+    - generic [ref=f1e12]:
+      - generic [ref=f1e15]:
+        - generic [ref=f1e16]:
+          - generic [ref=f1e17]: SPANDAN
+          - generic [ref=f1e18]: //
+          - generic [ref=f1e19]: CYBERPUNK 3D GRID
+        - generic [ref=f1e20]: "CORE: ONLINE [119 FPS] // ASSAM, IN"
+      - generic [ref=f1e21]:
+        - button "Toggle Cinematic Drone Tour" [ref=f1e22] [cursor=pointer]
+        - button "Reset Panoramic View" [ref=f1e26] [cursor=pointer]
+        - button "AUDIO OFF" [ref=f1e30] [cursor=pointer]
+    - generic [ref=f1e36]:
+      - generic [ref=f1e37]:
+        - generic [ref=f1e38]: "NAVIGATION:"
+        - generic [ref=f1e39]: DRAG TO ORBIT • SCROLL TO ZOOM • CLICK BUILDINGS TO DIVE
+      - generic [ref=f1e40]:
+        - button "SEC-01 NEURAL CORE" [ref=f1e41] [cursor=pointer]:
+          - generic [ref=f1e42]: SEC-01
+          - generic [ref=f1e43]: NEURAL CORE
+        - button "SEC-02 QUANTUM LAB" [ref=f1e44] [cursor=pointer]:
+          - generic [ref=f1e45]: SEC-02
+          - generic [ref=f1e46]: QUANTUM LAB
+        - button "SEC-03 TECH FORGE" [ref=f1e47] [cursor=pointer]:
+          - generic [ref=f1e48]: SEC-03
+          - generic [ref=f1e49]: TECH FORGE
+        - button "SEC-04 TIMELINE ARCHIVE" [ref=f1e50] [cursor=pointer]:
+          - generic [ref=f1e51]: SEC-04
+          - generic [ref=f1e52]: TIMELINE ARCHIVE
+        - button "SEC-05 SIGNAL RELAY" [ref=f1e53] [cursor=pointer]:
+          - generic [ref=f1e54]: SEC-05
+          - generic [ref=f1e55]: SIGNAL RELAY
+      - generic "City Orientation Radar" [ref=f1e56]: RADAR
+  - generic [ref=f1e70]:
+    - generic [ref=f1e71]:
+      - generic [ref=f1e76]:
+        - generic [ref=f1e77]:
+          - generic [ref=f1e78]: "[SEC-05]"
+          - heading "SIGNAL RELAY" [level=2] [ref=f1e508]
+        - paragraph [ref=f1e80]: TRANSMISSION // NEURAL UPLINK
+      - generic [ref=f1e81]:
+        - generic [ref=f1e82]: RECEIVING SIGNALS
+        - button "Exit terminal back to city" [ref=f1e84] [cursor=pointer]:
+          - generic [ref=f1e88]: RETURN TO CITY [ESC]
+    - generic [ref=f1e509]:
+      - generic [ref=f1e510]:
+        - generic [ref=f1e518]:
+          - heading "DIRECT SIGNAL FREQUENCY" [level=3] [ref=f1e519]
+          - paragraph [ref=f1e520]: RECEPTIVE TO CREATIVE COLLABORATIONS & ENGINEERING ROLES
+        - button "rumis3744@gmail.com" [ref=f1e521] [cursor=pointer]
+      - generic [ref=f1e526]:
+        - generic [ref=f1e527]:
+          - generic [ref=f1e528]: DISPATCH NEURAL TRANSMISSION
+          - generic [ref=f1e532]:
+            - generic [ref=f1e533]: "CALLSIGN / YOUR NAME:"
+            - textbox "e.g. Commander Shepard" [ref=f1e534]
+          - generic [ref=f1e535]:
+            - generic [ref=f1e536]: "RETURN FREQUENCY / EMAIL:"
+            - textbox "e.g. pilot@quantum.network" [ref=f1e537]
+          - generic [ref=f1e538]:
+            - generic [ref=f1e539]: "TRANSMISSION PACKET / MESSAGE:"
+            - textbox "Tell me about your project, idea, or world you want to build..." [ref=f1e540]
+          - button "TRANSMIT SIGNAL" [ref=f1e541] [cursor=pointer]
+        - generic [ref=f1e546]:
+          - generic [ref=f1e547]:
+            - heading "AUTHENTICATED COMMS CHANNELS" [level=4] [ref=f1e548]
+            - 'link "EMAIL: rumis3744@gmail.com" [ref=f1e549] [cursor=pointer]':
+              - /url: mailto:rumis3744@gmail.com
+            - 'link "GITHUB: @SpanHex" [ref=f1e554] [cursor=pointer]':
+              - /url: https://github.com/SpanHex
+            - 'link "INSTAGRAM: @nocturnalmakoto" [ref=f1e559] [cursor=pointer]':
+              - /url: https://instagram.com/nocturnalmakoto
+          - generic [ref=f1e564]:
+            - generic [ref=f1e565]: "LOCATION: Assam, India"
+            - generic [ref=f1e566]: "COORDINATES: 26.2006° N, 92.9376° E"
+            - generic [ref=f1e567]: "TIMEZONE: IST (UTC+05:30)"
+            - generic [ref=f1e568]: "STATUS: SYSTEM ONLINE // NEURAL LINK STABLE"
+    - generic [ref=f1e147]:
+      - 'button "PREV: TIMELINE ARCHIVE" [ref=f1e569] [cursor=pointer]'
+      - generic [ref=f1e152]: "TERMINAL UPLINK: ENCRYPTED // NODE: SEC-05"
+      - 'button "NEXT: NEURAL CORE" [active] [ref=f1e570] [cursor=pointer]'
